@@ -1,2 +1,4 @@
-# .github
-Organization profile sources
+# slate powered
+hi
+
+most repos here are shit, working on slate rn as a passion project tho
